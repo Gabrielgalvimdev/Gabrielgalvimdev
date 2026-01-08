@@ -1,40 +1,155 @@
-👋 Olá, eu sou o Gabriel Galvim
-🎓 Estudante de Ciência da Computação
-💻 Apaixonado por tecnologia e desenvolvimento de software
-🚀 Buscando contribuir e crescer na comunidade tech
+# 👋 Olá, sou Gabriel Galvim!
 
+## 🚀 Backend Developer | Python | Java | Node.js
 
-👀 Interesses
-- Programação de software e automação de tarefas
-- Desenvolvimento Web (HTML, CSS, JavaScript)
-- Desenvolvimento Backend (Python, Java)
-- Inteligência Artificial & Machine Learning
-- Open Source e comunidades de colaboração
+Sou um **Desenvolvedor Backend apaixonado** por criar arquiteturas robustas, escaláveis e eficientes. Especializado em desenvolvimento de APIs REST, microserviços e soluções backend de alta performance.
 
-🌱 Atualmente aprendendo
-- Python (principais frameworks: Flask, Django)
-- Java (estruturas de dados e projetos acadêmicos)
-- HTML & CSS (Web responsivo)
-- Lógica de Programação e algoritmos
+---
 
-💼 Projetos em destaque
-- Sistema de Gestão Acadêmica – CRUD completo em Java + MySQL
-- Dashboard de Análise de Dados – Visualização usando Python (pandas, matplotlib)
-- Site Portfólio Pessoal – Página responsiva em HTML, CSS e JS
-- Bot para WhatsApp – Automação de respostas com Python
-- Jogo da Velha Web – Projeto simples de front-end colaborativo
-- Scripts de automação – Projetos para tarefas rotineiras usando Python
+## 💼 Sobre Mim
 
-💞️ Quero colaborar em
-- Projetos open source de Python e Java
-- Desenvolvimento web e APIs
-- Aplicações que impactem positivamente a sociedade
+✅ **Desenvolvedor Backend Full-Cycle** com experiência em design e implementação de sistemas distribuídos
+✅ **Especialista em arquitetura de software** e padrões de design
+✅ **Técnico em Redes de Computadores** com profundo conhecimento de infraestrutura
+✅ **Educador em TI** com habilidade em mentoria e compartilhamento de conhecimento
+✅ **Desenvolvedor Freelancer** em plataformas como Fiverr
 
-📫 Onde me encontrar
-- LinkedIn: https://www.linkedin.com/in/gabrielgalvim/
-- Email: almeida99122@email.com
+---
 
-✨ Sobre mim
-- Curioso, estudioso e sempre disposto a aprender coisas novas
-- Buscando estágio/trainee em desenvolvimento de software
-- Foco em escrever código limpo e boas práticas
+## 🔧 Tech Stack Backend
+
+### **Linguagens & Frameworks**
+- **Python** → Django, Flask, FastAPI, SQLAlchemy
+- **Java** → Spring Boot, Spring Data JPA, Hibernate
+- **Node.js** → Express.js, NestJS, Fastify
+- **SQL** → PostgreSQL, MySQL, T-SQL
+- **NoSQL** → MongoDB, Redis, DynamoDB
+
+### **APIs & Arquitetura**
+- REST APIs (CRUD, JSON, HTTP)
+- GraphQL
+- Microserviços
+- Event-Driven Architecture
+- Message Queues (RabbitMQ, Kafka)
+
+### **DevOps & Infraestrutura**
+- Docker & Docker Compose
+- Kubernetes
+- CI/CD (GitHub Actions, Jenkins)
+- AWS (EC2, S3, Lambda, RDS)
+- Linux Server Administration
+- Nginx & Apache
+
+### **Banco de Dados**
+- Design de schemas
+- Query optimization
+- Database indexing
+- Transaction management
+- Replication & Backup strategies
+
+---
+
+## 🎓 Atualmente Aprendendo
+
+📚 **Advanced Backend Patterns**
+- Arquitetura Hexagonal
+- Domain-Driven Design (DDD)
+- Clean Architecture
+- Event Sourcing e CQRS
+
+📚 **Cloud & DevOps**
+- Kubernetes avançado
+- Terraform & Infrastructure as Code
+- Monitoring & Observability (Prometheus, Grafana)
+- GitOps & ArgoCD
+
+📚 **Concorrência & Performance**
+- Async/Await patterns
+- Thread pooling & connection pooling
+- Caching strategies
+- Load balancing
+
+---
+
+## 🎯 Interesses Profissionais
+
+🔍 **Áreas de Especialização:**
+- Desenvolvimento Backend enterprise
+- APIs e integrações robustas
+- Otimização de performance
+- Segurança de aplicações
+- Arquitetura de microsserviços
+- System design e scalability
+- Database optimization
+
+💡 **Desafios que gosto:**
+- Resolver problemas complexos de backend
+- Otimizar código legado
+- Implementar soluções escaláveis
+- Mentorizar desenvolvedores junior
+- Open Source contribution
+
+---
+
+## 📊 Projetos em Destaque
+
+### **API REST Completa com Python**
+- Framework: Flask + SQLAlchemy
+- Features: JWT Auth, Validação, CORS
+- Banco: PostgreSQL com migrations
+- Deploy: Heroku/AWS
+
+### **Microserviços com Node.js**
+- Express.js + RabbitMQ
+- Service-to-service communication
+- Load balancing
+- Docker containerization
+
+### **Sistema de Gerenciamento Java**
+- Spring Boot + JPA
+- RESTful API completa
+- Autenticação OAuth2
+- Testes unitários com JUnit
+
+---
+
+## 🏆 Competências Principais
+
+```
+✔ Desenvolvimento Backend        ████████████████░░ 90%
+✔ Design de Arquitetura          ███████████████░░░ 85%
+✔ Otimização de Performance      ██████████████░░░░ 80%
+✔ DevOps & Deployment            ██████████░░░░░░░░ 70%
+✔ Segurança de Aplicações        █████████░░░░░░░░░ 70%
+✔ Bancos de Dados                ████████████░░░░░░ 80%
+```
+
+---
+
+## 📞 Conecte-se Comigo
+
+🔗 **Minhas redes:**
+- 💼 **LinkedIn:** [gabriel-galvim](https://linkedin.com/in/gabriel-galvim)
+- 🐙 **GitHub:** [@Gabrielgalvimdev](https://github.com/Gabrielgalvimdev)
+- 💻 **Portfólio:** [meuportiflio.vercel.app](https://meuportiflio.vercel.app)
+- 📧 **Email:** [seu-email@exemplo.com](mailto:seu-email@exemplo.com)
+
+---
+
+## 🌟 Disponibilidade
+
+✅ **Freelancer** - Projetos pontuais e consulting
+✅ **Tempo Integral** - Oportunidades de longo prazo
+✅ **Mentoria** - Ajudando desenvolvedores em crescimento
+
+---
+
+## 📈 Estatísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gabrielgalvimdev&show_icons=true&theme=radical)
+
+---
+
+> 🚀 *"A excelência no backend não é sobre escrever código complexo, é sobre criar soluções elegantes, eficientes e mantíveis que resolvem problemas reais."*
+
+**Vamos construir algo incrível juntos!** 🛠️
