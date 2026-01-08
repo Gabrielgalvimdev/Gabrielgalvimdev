@@ -9,7 +9,6 @@ Sou um **Desenvolvedor Backend apaixonado** por criar arquiteturas robustas, esc
 ## 💼 Sobre Mim
 
 ✅ **Desenvolvedor Backend Full-Cycle** com experiência em design e implementação de sistemas distribuídos
-✅ **Especialista em arquitetura de software** e padrões de design
 ✅ **Técnico em Redes de Computadores** com profundo conhecimento de infraestrutura
 ✅ **Educador em TI** com habilidade em mentoria e compartilhamento de conhecimento
 ✅ **Desenvolvedor Freelancer** em plataformas como Fiverr
@@ -22,7 +21,7 @@ Sou um **Desenvolvedor Backend apaixonado** por criar arquiteturas robustas, esc
 - **Python** → Django, Flask, FastAPI, SQLAlchemy
 - **Java** → Spring Boot, Spring Data JPA, Hibernate
 - **Node.js** → Express.js, NestJS, Fastify
-- **SQL** → PostgreSQL, MySQL, T-SQL
+- **SQL** → PostgreSQL, MySQL
 - **NoSQL** → MongoDB, Redis, DynamoDB
 
 ### **APIs & Arquitetura**
@@ -56,12 +55,6 @@ Sou um **Desenvolvedor Backend apaixonado** por criar arquiteturas robustas, esc
 - Domain-Driven Design (DDD)
 - Clean Architecture
 - Event Sourcing e CQRS
-
-📚 **Cloud & DevOps**
-- Kubernetes avançado
-- Terraform & Infrastructure as Code
-- Monitoring & Observability (Prometheus, Grafana)
-- GitOps & ArgoCD
 
 📚 **Concorrência & Performance**
 - Async/Await patterns
@@ -131,8 +124,8 @@ Sou um **Desenvolvedor Backend apaixonado** por criar arquiteturas robustas, esc
 🔗 **Minhas redes:**
 - 💼 **LinkedIn:** [gabriel-galvim](https://linkedin.com/in/gabriel-galvim)
 - 🐙 **GitHub:** [@Gabrielgalvimdev](https://github.com/Gabrielgalvimdev)
-- 💻 **Portfólio:** [meuportiflio.vercel.app](https://meuportiflio.vercel.app)
-- 📧 **Email:** [seu-email@exemplo.com](mailto:seu-email@exemplo.com)
+- 💻 **Portfólio:** [portiflio-gabrielgalvim](https://portfolio-gabrielgalvim.vercel.app/)
+- 📧 **Email:** [almeida99122](almeida99122@gmail.com)
 
 ---
 
