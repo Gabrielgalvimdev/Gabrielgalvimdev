@@ -124,8 +124,8 @@ Sou um **Desenvolvedor Backend apaixonado** por criar arquiteturas robustas, esc
 🔗 **Minhas redes:**
 - 💼 **LinkedIn:** [gabriel-galvim](https://linkedin.com/in/gabriel-galvim)
 - 🐙 **GitHub:** [@Gabrielgalvimdev](https://github.com/Gabrielgalvimdev)
-- 💻 **Portfólio:** [portiflio-gabrielgalvim](https://portfolio-gabrielgalvim.vercel.app/)
-- 📧 **Email:** [almeida99122](almeida99122@gmail.com)
+- 💻 **Portfólio:** [portiflio-gabrielgalvim](https://gabrielgalvim.vercel.app/)
+- 📧 **Email:** [almeida99122@gmail.com](almeida99122@gmail.com)
 
 ---
 
