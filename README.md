@@ -8,10 +8,10 @@ Sou um **Desenvolvedor Backend apaixonado** por criar arquiteturas robustas, esc
 
 ## 💼 Sobre Mim
 
-✅ **Desenvolvedor Backend Full-Cycle** com experiência em design e implementação de sistemas distribuídos
+✅ **Cientista da computação** apaixonado por transformar problemas complexos em soluções simples e escaláveis.
+✅ **Desenvolvedor Backend** com experiência em design e implementação de sistemas distribuídos
 ✅ **Técnico em Redes de Computadores** com profundo conhecimento de infraestrutura
 ✅ **Educador em TI** com habilidade em mentoria e compartilhamento de conhecimento
-✅ **Desenvolvedor Freelancer** em plataformas como Fiverr
 
 ---
 
@@ -122,7 +122,7 @@ Sou um **Desenvolvedor Backend apaixonado** por criar arquiteturas robustas, esc
 ## 📞 Conecte-se Comigo
 
 🔗 **Minhas redes:**
-- 💼 **LinkedIn:** [gabriel-galvim](https://linkedin.com/in/gabriel-galvim)
+- 💼 **LinkedIn:** [gabriel-galvim](www.linkedin.com/in/gabrielgalvim)
 - 🐙 **GitHub:** [@Gabrielgalvimdev](https://github.com/Gabrielgalvimdev)
 - 💻 **Portfólio:** [portiflio-gabrielgalvim](https://gabrielgalvim.vercel.app/)
 - 📧 **Email:** [almeida99122@gmail.com](almeida99122@gmail.com)
